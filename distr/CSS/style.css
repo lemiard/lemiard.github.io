@@ -1,0 +1,41 @@
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 60px auto;
+
+}
+.header span {
+	display: block;
+
+}
+.section {
+	padding: 30px 0;
+
+
+}
+
+.form {
+	border: 5px solid #5454ca;
+	padding: 30px 20px;	
+}
+.form input {
+	margin-bottom: 12px;
+}
+.form-header, .section-header {
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+}
+.form-btn {
+	background-color: #5454ca;
+	margin: 10px auto;
+}
+.amenities {
+	margin: 60px auto;
+}
+.amenities img  {
+	margin-top: 30px;
+}
+.lem-img {
+	margin-bottom: 30px;
+}

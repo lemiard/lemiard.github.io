@@ -1,0 +1,8 @@
+.header {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 60px auto;
+}
+.header span {
+  display: block;
+}
