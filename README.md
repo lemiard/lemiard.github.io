@@ -1,2 +1,2 @@
-# lemiard.github.io
+# lemiard.com
 Company site
