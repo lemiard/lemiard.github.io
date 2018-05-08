@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway'); 
+
+ {
+	background-color: #f2f2f2;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+	-webkit-font-smoothing;
+	-webkit-overflow-scrolling;
+
+	margin-top: 70px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway";
+	font-weight: 300;
+}
+
+body {
+	background-color: #f2f2f2;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+	-webkit-font-smoothing;
+	-webkit-overflow-scrolling;
+
+	margin-top: 70px;
+}
+p{
+	line-height: 29px;
+	margin-bottom: 25px;
+}
+
+.centered {
+	text-align: center;
+}
+
+a {
+	color: #f85c37;
+}
+
+a: hover, a:focus {
+	color: #7b7b7b;
+	text-decoration: none;
+	outline: 0;
+}
+hr{
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.navbar {
+	font-weight: 800;
+	font-size: 14px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.navbar-inverse {
+	background: #2d2d2d;
+	border-color: #2d2d2d;
+}
+.navbar-brand {
+	margin-top: 0;
+	margin-bottom: 15px;
+	padding-right: 200px;
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+	background-color: #ff7878;
+}
+
+.navbar-collapse {
+	color: #999;
+	font-weight: bolder;
+	font-size: 22px;
+	margin-top: 15px; 
+	font-family: Lato;
+}
+ #headerwrap {
+ 	background: url("../bg-fon.jpg") no-repeat top center; 
+ 	margin-top: -10px;
+ 	padding-top: 20px;
+ 	text-align: center;
+ 	background-attachment: relative;
+ 	background-position: center center;
+ 	min-height: 800px;
+ 	width: 100%;
+
+ 	background-size: 100%
+
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+ 	
+ }
+ #headerwrap h1 {
+ 	margin-top: 100px;
+ 	font-color: white;
+ 	color: white;
+ 	font-size: 60px;
+ 	font-weight: 300;
+ 	letter-spacing: 3px;
+ }
+ #headerwrap h2 {
+ 	margin-top: 200px;
+ 	font-color: white;
+ 	color: white;
+ 	font-size: 40px;
+ 	letter-spacing: 2px;
+ 	text-transform: uppercase;
+ }
+
+ .w {
+ 	padding-top: 35px;
+
+ }
+
+ .w h4 {
+ 	font-size: 25px;
+ }
+
+.aa {
+	color: #2d2d2d;
+	font-size: 40px;
+}
+
+.wb {
+	padding-top: 35px;
+}
+#f {
+	background: #2d2d2d;
+	padding-top: 30px;
+	padding-bottom: 20px;
+
+}
+
+#f i {
+	color: #bdbdbd;
+	font-size: 30px;
+	padding: 20px;
+
+}
+
+#f i:hover {
+	color: #7878;
+}
+
+.w, .wb {
+	font-size: 25px;
+	color: #2d2d2d;
+	width: 100%;
+	background-color: #ff7878;
+}
